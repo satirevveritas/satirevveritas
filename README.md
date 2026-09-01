@@ -7,19 +7,6 @@
 - [Meu canal no YouTube](https://www.youtube.com/@satirev_veritas)
 
   <p align="left">
-    <a href="https://www.youtube.com/@satirev_veritas?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCQ7HubbVvuykjT7dj8603gA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@satirev_veritas">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCQ7HubbVvuykjT7dj8603gA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
     </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
