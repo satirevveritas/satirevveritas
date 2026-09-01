@@ -1,9 +1,5 @@
 ## print("Olá, sou o Arthur!")
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 Sou estudante de Ciência da Computação.
 - 🌱 Iniciante em programação, atualmente aprendendo Python.
 - 😄 Pronouns: ele/dele
