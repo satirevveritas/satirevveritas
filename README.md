@@ -2,7 +2,7 @@
 
 - 🔭 Sou estudante de Ciência da Computação.
 - 🌱 Iniciante em programação, atualmente aprendendo Python.
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: ele/dele (he/him)
 
 ##
 
