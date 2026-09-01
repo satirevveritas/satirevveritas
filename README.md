@@ -8,7 +8,7 @@
 
   <p align="left">
     </a> 
-    <a href="https://github.com/satirevveritas?tab=repositories&sort=stargazers">
+    <a href="https://github.com/satirevveritas?tab=repositories">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
